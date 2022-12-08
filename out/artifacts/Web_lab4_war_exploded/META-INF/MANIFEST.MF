@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: w10
+Build-Jdk: Eclipse Temurin version 11.0.14
+Implementation-Title: backend
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Main-Class: ${start-class}
+
